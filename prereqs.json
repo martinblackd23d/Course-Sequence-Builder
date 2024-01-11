@@ -1,0 +1,3115 @@
+{
+    "ACCT 1410": [],
+    "ACCT 1511": [
+        "and",
+        [
+            "ACCT 2410",
+            "pre"
+        ]
+    ],
+    "ACCT 1512": [
+        "and",
+        [
+            "ACCT 1511",
+            "pre"
+        ]
+    ],
+    "ACCT 1515": [],
+    "ACCT 1523": [],
+    "ACCT 2410": [],
+    "ACCT 2411": [
+        "or",
+        [
+            "ACCT 2420",
+            "pre"
+        ],
+        [
+            "ACCT 1515",
+            "pre"
+        ]
+    ],
+    "ACCT 2420": [
+        "and",
+        [
+            "ACCT 2410",
+            "pre"
+        ]
+    ],
+    "ACCT 2540": [
+        "or",
+        [
+            "ACCT 1410",
+            "pre"
+        ],
+        [
+            "ACCT 2410",
+            "pre"
+        ]
+    ],
+    "ASLS 1411": [],
+    "ASLS 1412": [
+        "and",
+        [
+            "ASLS 1411",
+            "pre"
+        ]
+    ],
+    "ASLS 1413": [
+        "and",
+        [
+            "ASLS 1412",
+            "pre"
+        ]
+    ],
+    "ASLS 1414": [
+        "and",
+        [
+            "ASLS 1413",
+            "pre"
+        ]
+    ],
+    "ASLS 1415": [
+        "and",
+        [
+            "ASLS 1414",
+            "pre"
+        ]
+    ],
+    "ASLS 1420": [
+        "and",
+        [
+            "ASLS 1414",
+            "pre"
+        ]
+    ],
+    "ASLS 1430": [
+        "and",
+        [
+            "ASLS 1420",
+            "pre"
+        ]
+    ],
+    "ASLS 1435": [],
+    "ASLS 1443": [
+        "and",
+        [
+            "ASLS 1414",
+            "pre"
+        ]
+    ],
+    "ASLS 1446": [
+        "and",
+        [
+            "ASLS 1420",
+            "pre"
+        ]
+    ],
+    "ASLS 1450": [
+        "and",
+        [
+            "ASLS 1414",
+            "pre"
+        ]
+    ],
+    "ASLS 1497": [],
+    "AUTO 1415": [
+        "and",
+        [
+            "AUTO 1430",
+            "co"
+        ],
+        [
+            "AUTO 1510",
+            "co"
+        ],
+        [
+            "AUTO 1530",
+            "co"
+        ]
+    ],
+    "AUTO 1430": [
+        "and",
+        [
+            "AUTO 1415",
+            "pre"
+        ]
+    ],
+    "AUTO 1441": [
+        "and",
+        [
+            "AUTO 1415",
+            "pre"
+        ],
+        [
+            "AUTO 1530",
+            "pre"
+        ]
+    ],
+    "AUTO 1510": [
+        "and",
+        [
+            "AUTO 1415",
+            "pre"
+        ]
+    ],
+    "AUTO 1523": [],
+    "AUTO 1530": [
+        "and",
+        [
+            "AUTO 1415",
+            "pre"
+        ]
+    ],
+    "AUTO 1540": [
+        "and",
+        [
+            "AUTO 1415",
+            "pre"
+        ],
+        [
+            "AUTO 1530",
+            "pre"
+        ]
+    ],
+    "AUTO 1550": [
+        "and",
+        [
+            "AUTO 1415",
+            "pre"
+        ],
+        [
+            "AUTO 1530",
+            "pre"
+        ]
+    ],
+    "AUTO 2410": [
+        "and",
+        [
+            "AUTO 1550",
+            "pre"
+        ]
+    ],
+    "AUTO 2420": [],
+    "AUTO 2430": [
+        "and",
+        [
+            "AUTO 1550",
+            "pre"
+        ]
+    ],
+    "AUTO 2440": [],
+    "AUTO 2450": [],
+    "AUTO 2513": [
+        "and",
+        [
+            "AUTO 2450",
+            "pre"
+        ]
+    ],
+    "AUTO 2520": [],
+    "AUTO 2530": [
+        "and",
+        [
+            "AUTO 2450",
+            "pre"
+        ]
+    ],
+    "AUTO 2542": [],
+    "AUTO 2550": [],
+    "BIOL 1471": [],
+    "BIOL 1730": [],
+    "BIOL 1740": [],
+    "BIOL 1745": [
+        "and",
+        [
+            "BIOL 1740",
+            "pre"
+        ]
+    ],
+    "BIOL 1760": [],
+    "BIOL 2721": [
+        "and",
+        [
+            "BIOL 1740",
+            "pre"
+        ]
+    ],
+    "BIOL 2722": [
+        "and",
+        [
+            "BIOL 2721",
+            "pre"
+        ]
+    ],
+    "BIOL 2750": [
+        "and",
+        [
+            "BIOL 1740",
+            "pre"
+        ]
+    ],
+    "BIOL 2755": [
+        "and",
+        [
+            "BIOL 1740",
+            "pre"
+        ]
+    ],
+    "BTEC 1410": [],
+    "BTEC 1418": [],
+    "BTEC 1421": [],
+    "BTEC 1423": [
+        "or",
+        [
+            "BTEC 1421",
+            "pre"
+        ],
+        [
+            "CSCI 2410",
+            "pre"
+        ]
+    ],
+    "BTEC 1530": [],
+    "BTEC 2410": [],
+    "BTEC 2506": [
+        "and",
+        [
+            "BTEC 1423",
+            "pre"
+        ]
+    ],
+    "BUSN 1400": [],
+    "BUSN 1410": [],
+    "BUSN 1420": [],
+    "BUSN 1430": [],
+    "BUSN 1441": [],
+    "BUSN 1444": [],
+    "BUSN 1446": [],
+    "BUSN 1449": [],
+    "BUSN 1475": [],
+    "BUSN 1480": [],
+    "BUSN 1490": [],
+    "BUSN 1492": [],
+    "BUSN 1512": [],
+    "BUSN 1520": [],
+    "BUSN 1530": [],
+    "BUSN 1760": [],
+    "BUSN 1762": [],
+    "BUSN 1782": [
+        "and",
+        [
+            "BUSN 1760",
+            "pre"
+        ]
+    ],
+    "BUSN 1784": [
+        "and",
+        [
+            "BUSN 1760",
+            "pre"
+        ]
+    ],
+    "BUSN 2110": [],
+    "BUSN 2410": [],
+    "BUSN 2420": [],
+    "BUSN 2440": [],
+    "BUSN 2441": [],
+    "BUSN 2442": [],
+    "BUSN 2443": [],
+    "BUSN 2444": [],
+    "BUSN 2445": [],
+    "BUSN 2450": [],
+    "BUSN 2451": [],
+    "BUSN 2455": [],
+    "BUSN 2459": [],
+    "BUSN 2465": [],
+    "BUSN 2470": [],
+    "BUSN 2472": [],
+    "BUSN 2475": [
+        "and",
+        [
+            "BUSN 1475",
+            "pre"
+        ]
+    ],
+    "BUSN 2520": [],
+    "BUSN 2530": [],
+    "CABT 1450": [],
+    "CABT 1455": [],
+    "CABT 1460": [],
+    "CABT 1465": [],
+    "CABT 1470": [],
+    "CABT 1475": [],
+    "CABT 2450": [],
+    "CABT 2455": [],
+    "CABT 2515": [],
+    "CARP 1410": [],
+    "CARP 1420": [],
+    "CARP 1430": [],
+    "CARP 1510": [],
+    "CARP 1521": [
+        "and",
+        [
+            "CARP 1510",
+            "co"
+        ]
+    ],
+    "CARP 1522": [
+        "and",
+        [
+            "CARP 1510",
+            "co"
+        ]
+    ],
+    "CARP 2410": [
+        "and",
+        [
+            "CARP 1510",
+            "pre"
+        ],
+        [
+            "CARP 1521",
+            "pre"
+        ],
+        [
+            "CARP 1522",
+            "pre"
+        ]
+    ],
+    "CARP 2421": [],
+    "CARP 2422": [],
+    "CDEV 1200": [],
+    "CDEV 1210": [],
+    "CDEV 1220": [],
+    "CDEV 1230": [],
+    "CDEV 1250": [],
+    "CDEV 1270": [],
+    "CDEV 1610": [],
+    "CDEV 1640": [],
+    "CDEV 1910": [],
+    "CDEV 2300": [],
+    "CDEV 2340": [],
+    "CDEV 2620": [],
+    "CDEV 2630": [],
+    "CDEV 2650": [],
+    "CHEM 1700": [],
+    "CHEM 1711": [],
+    "CHEM 1712": [
+        "and",
+        [
+            "CHEM 1711",
+            "pre"
+        ]
+    ],
+    "CHEM 2720": [
+        "and",
+        [
+            "CHEM 1712",
+            "pre"
+        ]
+    ],
+    "CHEM 2721": [
+        "and",
+        [
+            "CHEM 2720",
+            "pre"
+        ]
+    ],
+    "CHEM 2730": [
+        "and",
+        [
+            "CHEM 1711",
+            "pre"
+        ]
+    ],
+    "CHSN 1698": [],
+    "CHSN 1699": [],
+    "CNCT 1410": [
+        "and",
+        [
+            "CNCT 1430",
+            "co"
+        ],
+        [
+            "CNCT 1431",
+            "co"
+        ]
+    ],
+    "CNCT 1420": [
+        "and",
+        [
+            "CNCT 2520",
+            "co"
+        ]
+    ],
+    "CNCT 1430": [
+        "and",
+        [
+            "CNCT 1410",
+            "co"
+        ],
+        [
+            "CNCT 1431",
+            "co"
+        ]
+    ],
+    "CNCT 1431": [
+        "and",
+        [
+            "CNCT 1410",
+            "co"
+        ],
+        [
+            "CNCT 1430",
+            "co"
+        ]
+    ],
+    "CNCT 1710": [
+        "and",
+        [
+            "CNCT 1431",
+            "pre"
+        ],
+        [
+            "CNCT 1720",
+            "co"
+        ],
+        [
+            "CNCT 1744",
+            "co"
+        ]
+    ],
+    "CNCT 1720": [
+        "and",
+        [
+            "CNCT 1431",
+            "pre"
+        ],
+        [
+            "CNCT 1710",
+            "co"
+        ],
+        [
+            "CNCT 1744",
+            "co"
+        ]
+    ],
+    "CNCT 1730": [
+        "and",
+        [
+            "CNCT 1431",
+            "pre"
+        ],
+        [
+            "CNCT 1731",
+            "co"
+        ],
+        [
+            "CNCT 2540",
+            "co"
+        ]
+    ],
+    "CNCT 1731": [
+        "and",
+        [
+            "CNCT 1730",
+            "pre"
+        ],
+        [
+            "CNCT 1730",
+            "co"
+        ],
+        [
+            "CNCT 2540",
+            "co"
+        ]
+    ],
+    "CNCT 1744": [
+        "and",
+        [
+            "CNCT 1710",
+            "co"
+        ],
+        [
+            "CNCT 1720",
+            "co"
+        ]
+    ],
+    "CNCT 2412": [
+        "and",
+        [
+            "CNCT 1420",
+            "pre"
+        ],
+        [
+            "CNCT 1731",
+            "pre"
+        ],
+        [
+            "CNCT 2421",
+            "co"
+        ],
+        [
+            "CNCT 2441",
+            "co"
+        ]
+    ],
+    "CNCT 2421": [
+        "and",
+        [
+            "CNCT 1744",
+            "pre"
+        ],
+        [
+            "CNCT 2412",
+            "co"
+        ],
+        [
+            "CNCT 2441",
+            "co"
+        ]
+    ],
+    "CNCT 2431": [
+        "and",
+        [
+            "CNCT 1731",
+            "pre"
+        ],
+        [
+            "CNCT 1744",
+            "pre"
+        ],
+        [
+            "CNCT 2520",
+            "pre"
+        ],
+        [
+            "CNCT 2530",
+            "co"
+        ]
+    ],
+    "CNCT 2441": [
+        "and",
+        [
+            "CNCT 1730",
+            "pre"
+        ],
+        [
+            "CNCT 1731",
+            "pre"
+        ],
+        [
+            "CNCT 2412",
+            "co"
+        ],
+        [
+            "CNCT 2421",
+            "co"
+        ]
+    ],
+    "CNCT 2520": [
+        "and",
+        [
+            "CNCT 1420",
+            "co"
+        ]
+    ],
+    "CNCT 2530": [
+        "and",
+        [
+            "CNCT 1430",
+            "pre"
+        ],
+        [
+            "CNCT 1431",
+            "pre"
+        ],
+        [
+            "CNCT 2431",
+            "co"
+        ]
+    ],
+    "CNCT 2540": [
+        "and",
+        [
+            "CNCT 1730",
+            "co"
+        ],
+        [
+            "CNCT 1731",
+            "co"
+        ]
+    ],
+    "CNCT 2550": [
+        "and",
+        [
+            "CNCT 1410",
+            "pre"
+        ],
+        [
+            "CNCT 1420",
+            "pre"
+        ],
+        [
+            "CNCT 1430",
+            "pre"
+        ],
+        [
+            "CNCT 1431",
+            "pre"
+        ]
+    ],
+    "COMM 1710": [],
+    "COMM 1720": [],
+    "COMM 1730": [],
+    "COMM 1750": [],
+    "COSM 1601": [
+        "and",
+        [
+            "CHSN 1698",
+            "either"
+        ],
+        [
+            "CHSN 1699",
+            "either"
+        ]
+    ],
+    "COSM 1602": [
+        "and",
+        [
+            "COSM 1601",
+            "either"
+        ]
+    ],
+    "COSM 1603": [
+        "and",
+        [
+            "CHSN 1698",
+            "either"
+        ],
+        [
+            "CHSN 1699",
+            "either"
+        ]
+    ],
+    "COSM 1604": [
+        "and",
+        [
+            "COSM 1601",
+            "pre"
+        ]
+    ],
+    "COSM 1605": [
+        "and",
+        [
+            "COSM 1602",
+            "either"
+        ]
+    ],
+    "COSM 1606": [
+        "and",
+        [
+            "COSM 1601",
+            "either"
+        ],
+        [
+            "COSM 1602",
+            "either"
+        ]
+    ],
+    "COSM 1608": [],
+    "COSM 1620": [
+        "and",
+        [
+            "COSM 1605",
+            "either"
+        ]
+    ],
+    "COSM 1901": [
+        "and",
+        [
+            "COSM 1602",
+            "pre"
+        ]
+    ],
+    "COSM 1902": [
+        "and",
+        [
+            "COSM 1602",
+            "pre"
+        ]
+    ],
+    "COSM 1903": [
+        "and",
+        [
+            "COSM 1602",
+            "pre"
+        ]
+    ],
+    "COSM 1904": [
+        "and",
+        [
+            "COSM 1602",
+            "pre"
+        ]
+    ],
+    "COSM 1905": [
+        "and",
+        [
+            "COSM 1602",
+            "pre"
+        ]
+    ],
+    "COSM 1906": [
+        "and",
+        [
+            "COSM 1602",
+            "pre"
+        ]
+    ],
+    "COSM 1907": [
+        "and",
+        [
+            "COSM 1602",
+            "pre"
+        ]
+    ],
+    "COSM 1908": [
+        "and",
+        [
+            "COSM 1603",
+            "pre"
+        ]
+    ],
+    "COSM 1951": [
+        "and",
+        [
+            "COSM 1901",
+            "either"
+        ],
+        [
+            "COSM 1905",
+            "either"
+        ],
+        [
+            "COSM 1908",
+            "either"
+        ]
+    ],
+    "COSM 1952": [
+        "and",
+        [
+            "COSM 1901",
+            "either"
+        ],
+        [
+            "COSM 1905",
+            "either"
+        ],
+        [
+            "COSM 1908",
+            "either"
+        ]
+    ],
+    "CSCI 1410": [],
+    "CSCI 1423": [],
+    "CSCI 1440": [],
+    "CSCI 1450": [],
+    "CSCI 1470": [
+        "and",
+        [
+            "CSCI 1450",
+            "pre"
+        ]
+    ],
+    "CSCI 1475": [],
+    "CSCI 1523": [
+        "and",
+        [
+            "CSCI 1410",
+            "pre"
+        ]
+    ],
+    "CSCI 1524": [
+        "and",
+        [
+            "CSCI 1410",
+            "pre"
+        ],
+        [
+            "CSCI 1523",
+            "pre"
+        ],
+        [
+            "CSCI 1541",
+            "pre"
+        ],
+        [
+            "MATH 1730",
+            "pre"
+        ]
+    ],
+    "CSCI 1533": [
+        "and",
+        [
+            "CSCI 1523",
+            "pre"
+        ]
+    ],
+    "CSCI 1541": [
+        "and",
+        [
+            "CSCI 1410",
+            "pre"
+        ]
+    ],
+    "CSCI 1542": [
+        "and",
+        [
+            "CSCI 1541",
+            "pre"
+        ]
+    ],
+    "CSCI 1550": [
+        "and",
+        [
+            "CSCI 1410",
+            "pre"
+        ]
+    ],
+    "CSCI 1714": [
+        "and",
+        [
+            "MATH 1740",
+            "pre"
+        ]
+    ],
+    "CSCI 2410": [
+        "and",
+        [
+            "CSCI 1550",
+            "pre"
+        ]
+    ],
+    "CSCI 2420": [
+        "and",
+        [
+            "CSCI 1423",
+            "pre"
+        ],
+        [
+            "CSCI 1440",
+            "pre"
+        ]
+    ],
+    "CSCI 2440": [
+        "and",
+        [
+            "CSCI 1450",
+            "pre"
+        ]
+    ],
+    "CSCI 2442": [
+        "and",
+        [
+            "CSCI 1450",
+            "pre"
+        ]
+    ],
+    "CSCI 2451": [
+        "and",
+        [
+            "CSCI 2420",
+            "pre"
+        ]
+    ],
+    "CSCI 2453": [
+        "or",
+        [
+            "CSCI 2420",
+            "pre"
+        ],
+        [
+            "CSCI 2461",
+            "pre"
+        ]
+    ],
+    "CSCI 2460": [
+        "and",
+        [
+            "CSCI 1410",
+            "pre"
+        ],
+        [
+            "MATH 1730",
+            "pre"
+        ]
+    ],
+    "CSCI 2461": [
+        "or",
+        [
+            "CSCI 1423",
+            "pre"
+        ],
+        [
+            "CSCI 1475",
+            "pre"
+        ]
+    ],
+    "CSCI 2465": [
+        "and",
+        [
+            "CSCI 1440",
+            "pre"
+        ]
+    ],
+    "CSCI 2466": [
+        "and",
+        [
+            "CSCI 1450",
+            "pre"
+        ],
+        [
+            "CSCI 1541",
+            "pre"
+        ]
+    ],
+    "CSCI 2469": [
+        "and",
+        [
+            "CSCI 1410",
+            "pre"
+        ],
+        [
+            "CSCI 1523",
+            "pre"
+        ],
+        [
+            "CSCI 1524",
+            "pre"
+        ],
+        [
+            "CSCI 1541",
+            "pre"
+        ]
+    ],
+    "CSCI 2480": [
+        "and",
+        [
+            "CSCI 2420",
+            "pre"
+        ],
+        [
+            "CSCI 2461",
+            "pre"
+        ]
+    ],
+    "CSCI 2482": [
+        "and",
+        [
+            "CSCI 1523",
+            "pre"
+        ],
+        [
+            "CSCI 2420",
+            "pre"
+        ]
+    ],
+    "CSCI 2484": [
+        "and",
+        [
+            "CSCI 1523",
+            "pre"
+        ],
+        [
+            "CSCI 2420",
+            "pre"
+        ]
+    ],
+    "CSCI 2485": [
+        "and",
+        [
+            "CSCI 2465",
+            "pre"
+        ]
+    ],
+    "CSCI 2570": [
+        "and",
+        [
+            "CSCI 1410",
+            "pre"
+        ],
+        [
+            "CSCI 1523",
+            "pre"
+        ],
+        [
+            "MATH 1730",
+            "pre"
+        ]
+    ],
+    "CSCI 2622": [
+        "and",
+        [
+            "CSCI 2440",
+            "pre"
+        ]
+    ],
+    "CULA 1405": [],
+    "CULA 1415": [],
+    "CULA 1425": [
+        "and",
+        [
+            "CULA 1405",
+            "pre"
+        ]
+    ],
+    "CULA 1435": [
+        "and",
+        [
+            "CULA 1405",
+            "either"
+        ],
+        [
+            "CULA 1405",
+            "either"
+        ]
+    ],
+    "CULA 1445": [
+        "and",
+        [
+            "CULA 1405",
+            "pre"
+        ],
+        [
+            "CULA 1415",
+            "pre"
+        ]
+    ],
+    "CULA 1455": [],
+    "CULA 1465": [],
+    "CULA 1505": [
+        "and",
+        [
+            "CULA 1445",
+            "pre"
+        ],
+        [
+            "CULA 1455",
+            "pre"
+        ],
+        [
+            "CULA 1465",
+            "pre"
+        ]
+    ],
+    "CULA 1515": [
+        "and",
+        [
+            "CULA 1445",
+            "pre"
+        ],
+        [
+            "CULA 1455",
+            "pre"
+        ],
+        [
+            "CULA 1465",
+            "pre"
+        ]
+    ],
+    "CULA 1525": [
+        "and",
+        [
+            "CULA 1445",
+            "pre"
+        ],
+        [
+            "CULA 1455",
+            "pre"
+        ],
+        [
+            "CULA 1465",
+            "pre"
+        ]
+    ],
+    "CULA 1545": [
+        "and",
+        [
+            "CULA 1445",
+            "pre"
+        ],
+        [
+            "CULA 1455",
+            "pre"
+        ],
+        [
+            "CULA 1465",
+            "pre"
+        ]
+    ],
+    "CULA 1555": [
+        "or",
+        [
+            "CULA 1405",
+            "pre"
+        ]
+    ],
+    "CULA 1565": [
+        "and",
+        [
+            "CULA 1455",
+            "pre"
+        ],
+        [
+            "CULA 1465",
+            "pre"
+        ]
+    ],
+    "CULA 1575": [
+        "and",
+        [
+            "CULA 1425",
+            "pre"
+        ]
+    ],
+    "CULA 1585": [
+        "and",
+        [
+            "CULA 1405",
+            "pre"
+        ],
+        [
+            "CULA 1415",
+            "pre"
+        ]
+    ],
+    "CULA 1590": [
+        "and",
+        [
+            "CULA 1505",
+            "pre"
+        ],
+        [
+            "CULA 1515",
+            "pre"
+        ],
+        [
+            "CULA 1525",
+            "pre"
+        ],
+        [
+            "CULA 1545",
+            "pre"
+        ]
+    ],
+    "CULA 1601": [],
+    "CULA 1611": [],
+    "CULA 1621": [],
+    "CULA 1631": [],
+    "CULA 1641": [],
+    "CULA 1650": [],
+    "CULA 1700": [
+        "and",
+        [
+            "CULA 1445",
+            "pre"
+        ]
+    ],
+    "CULA 1705": [
+        "and",
+        [
+            "CULA 1445",
+            "pre"
+        ]
+    ],
+    "CULA 2100": [
+        "and",
+        [
+            "CULA 1545",
+            "pre"
+        ],
+        [
+            "CULA 2105",
+            "co"
+        ],
+        [
+            "CULA 2110",
+            "co"
+        ],
+        [
+            "CULA 2220",
+            "co"
+        ]
+    ],
+    "CULA 2105": [
+        "and",
+        [
+            "CULA 1545",
+            "pre"
+        ],
+        [
+            "CULA 2100",
+            "co"
+        ],
+        [
+            "CULA 2110",
+            "co"
+        ],
+        [
+            "CULA 2220",
+            "co"
+        ]
+    ],
+    "CULA 2110": [
+        "and",
+        [
+            "CULA 1545",
+            "pre"
+        ],
+        [
+            "CULA 2100",
+            "co"
+        ],
+        [
+            "CULA 2105",
+            "co"
+        ],
+        [
+            "CULA 2220",
+            "co"
+        ]
+    ],
+    "CULA 2115": [
+        "and",
+        [
+            "CULA 1590",
+            "pre"
+        ]
+    ],
+    "CULA 2220": [
+        "and",
+        [
+            "CULA 1545",
+            "pre"
+        ],
+        [
+            "CULA 2100",
+            "co"
+        ],
+        [
+            "CULA 2105",
+            "co"
+        ],
+        [
+            "CULA 2110",
+            "co"
+        ]
+    ],
+    "CULA 2225": [
+        "and",
+        [
+            "CULA 2220",
+            "pre"
+        ]
+    ],
+    "CULA 2230": [],
+    "CULA 2235": [
+        "and",
+        [
+            "CULA 2225",
+            "pre"
+        ]
+    ],
+    "CULA 2300": [],
+    "CULA 2310": [],
+    "CULA 2320": [],
+    "CULA 2330": [],
+    "CULA 2340": [],
+    "CULA 2350": [],
+    "DGIM 1400": [],
+    "DGIM 1443": [],
+    "DGIM 1444": [
+        "and",
+        [
+            "DGIM 1443",
+            "pre"
+        ]
+    ],
+    "DGIM 1448": [],
+    "DGIM 1449": [],
+    "DGIM 1480": [],
+    "DGIM 1483": [],
+    "DGIM 1484": [
+        "and",
+        [
+            "DGIM 1483",
+            "pre"
+        ]
+    ],
+    "DGIM 1490": [],
+    "DGIM 1540": [],
+    "DGIM 2520": [
+        "and",
+        [
+            "DGIM 1490",
+            "pre"
+        ]
+    ],
+    "DGIM 2521": [],
+    "DGIM 2530": [
+        "and",
+        [
+            "DGIM 2521",
+            "either"
+        ]
+    ],
+    "DGIM 2531": [
+        "and",
+        [
+            "DGIM 2530",
+            "pre"
+        ]
+    ],
+    "DGIM 2560": [],
+    "DGIM 2569": [
+        "and",
+        [
+            "DGIM 1400",
+            "pre"
+        ]
+    ],
+    "DGIM 2586": [],
+    "DGIM 2587": [],
+    "DGIM 2588": [
+        "and",
+        [
+            "DGIM 2587",
+            "pre"
+        ]
+    ],
+    "DGIM 2704": [
+        "and",
+        [
+            "DGIM 1490",
+            "pre"
+        ]
+    ],
+    "ECON 1720": [],
+    "ECON 1730": [],
+    "ELTN 1410": [],
+    "ELTN 1422": [],
+    "ELTN 1432": [
+        "and",
+        [
+            "ELTN 1422",
+            "pre"
+        ]
+    ],
+    "ELTN 1442": [
+        "and",
+        [
+            "ELTN 1432",
+            "pre"
+        ]
+    ],
+    "ELTN 1512": [
+        "and",
+        [
+            "ELTN 1442",
+            "pre"
+        ]
+    ],
+    "ELTN 1522": [
+        "and",
+        [
+            "ELTN 1512",
+            "pre"
+        ]
+    ],
+    "ELTN 1532": [],
+    "ELTN 1540": [],
+    "ELTN 2410": [
+        "and",
+        [
+            "ELTN 2420",
+            "pre"
+        ]
+    ],
+    "ELTN 2420": [
+        "and",
+        [
+            "ELTN 1540",
+            "pre"
+        ]
+    ],
+    "ELTN 2430": [
+        "and",
+        [
+            "ELTN 2410",
+            "pre"
+        ]
+    ],
+    "ELTN 2440": [
+        "and",
+        [
+            "ELTN 2430",
+            "pre"
+        ]
+    ],
+    "ELTN 2510": [
+        "and",
+        [
+            "ELTN 2440",
+            "pre"
+        ]
+    ],
+    "ELTN 2522": [
+        "and",
+        [
+            "ELTN 2440",
+            "pre"
+        ]
+    ],
+    "ELTN 2532": [
+        "and",
+        [
+            "ELTN 2440",
+            "pre"
+        ]
+    ],
+    "ELTN 2540": [
+        "and",
+        [
+            "ELTN 2440",
+            "pre"
+        ]
+    ],
+    "ELTN 2550": [
+        "and",
+        [
+            "ELTN 2440",
+            "pre"
+        ]
+    ],
+    "EMEC 1511": [],
+    "EMEC 1521": [],
+    "EMEC 1530": [],
+    "EMEC 1540": [],
+    "EMEC 2400": [],
+    "EMEC 2500": [],
+    "EMEC 2620": [],
+    "EMEC 2625": [],
+    "EMEC 2741": [],
+    "EMEC 2751": [],
+    "EMEC 2760": [],
+    "EMEC 2770": [],
+    "ENGL 1711": [],
+    "ENGR 1707": [],
+    "ENGR 1709": [],
+    "ENGR 1717": [
+        "and",
+        [
+            "PHYS 2710",
+            "pre"
+        ],
+        [
+            "MATH 2760",
+            "pre"
+        ]
+    ],
+    "ENGR 2705": [
+        "and",
+        [
+            "PHYS 2700",
+            "pre"
+        ]
+    ],
+    "ENGR 2710": [
+        "and",
+        [
+            "ENGR 2705",
+            "pre"
+        ]
+    ],
+    "ENGR 2712": [
+        "and",
+        [
+            "ENGR 2705",
+            "pre"
+        ]
+    ],
+    "ENGR 2715": [
+        "and",
+        [
+            "CHEM 1711",
+            "pre"
+        ],
+        [
+            "PHYS 2700",
+            "pre"
+        ]
+    ],
+    "ESTH 1645": [
+        "and",
+        [
+            "CHSN 1698",
+            "either"
+        ],
+        [
+            "CHSN 1699",
+            "either"
+        ]
+    ],
+    "ESTH 1650": [
+        "and",
+        [
+            "CHSN 1698",
+            "either"
+        ],
+        [
+            "CHSN 1699",
+            "either"
+        ],
+        [
+            "ESTH 1645",
+            "either"
+        ]
+    ],
+    "ESTH 1651": [
+        "and",
+        [
+            "CHSN 1698",
+            "either"
+        ],
+        [
+            "CHSN 1699",
+            "either"
+        ],
+        [
+            "ESTH 1645",
+            "either"
+        ],
+        [
+            "ESTH 1650",
+            "either"
+        ]
+    ],
+    "ESTH 1652": [
+        "and",
+        [
+            "ESTH 1651",
+            "pre"
+        ]
+    ],
+    "ESTH 1671": [],
+    "ESTH 1672": [
+        "and",
+        [
+            "ESTH 1671",
+            "pre"
+        ]
+    ],
+    "ESTH 1710": [],
+    "ESTH 1712": [],
+    "ESTH 1714": [],
+    "ESTH 1716": [],
+    "ESTH 1718": [],
+    "GISC 1760": [],
+    "GISC 1765": [],
+    "GISC 1770": [],
+    "GISC 1775": [],
+    "GISC 1780": [],
+    "GISC 1785": [],
+    "GISC 2720": [],
+    "GISC 2725": [],
+    "GISC 2730": [],
+    "HIST 1745": [],
+    "HIST 1746": [],
+    "HIST 1760": [],
+    "HIST 1761": [],
+    "HLTH 1300": [],
+    "HLTH 1310": [],
+    "HLTH 1320": [],
+    "HLTH 1410": [],
+    "HLTH 1418": [],
+    "HLTH 1421": [],
+    "HLTH 1422": [],
+    "HLTH 1425": [
+        "and",
+        [
+            "HLTH 1421",
+            "pre"
+        ]
+    ],
+    "HLTH 1454": [],
+    "HLTH 1458": [],
+    "HLTH 1459": [],
+    "HLTH 1465": [],
+    "HLTH 1485": [
+        "and",
+        [
+            "HLTH 1425",
+            "pre"
+        ]
+    ],
+    "HLTH 1541": [],
+    "HLTH 1575": [],
+    "HLTH 1610": [],
+    "HLTH 1620": [
+        "or",
+        [
+            "HLTH 1610",
+            "pre"
+        ]
+    ],
+    "HLTH 1630": [
+        "or",
+        [
+            "HLTH 1610",
+            "pre"
+        ]
+    ],
+    "HLTH 1690": [],
+    "HLTH 1900": [
+        "and",
+        [
+            "HLTH 1421",
+            "pre"
+        ]
+    ],
+    "HMRS 1400": [],
+    "HMRS 1410": [],
+    "HMRS 1420": [],
+    "HMRS 1430": [],
+    "HMRS 2410": [],
+    "HMRS 2420": [],
+    "HMRS 2430": [],
+    "HMRS 2440": [],
+    "HMRS 2600": [],
+    "HSPM 1410": [],
+    "HSPM 1440": [],
+    "HSPM 2420": [],
+    "INTP 1440": [
+        "and",
+        [
+            "INTP 1500",
+            "pre"
+        ]
+    ],
+    "INTP 1442": [
+        "and",
+        [
+            "ASLS 1413",
+            "pre"
+        ]
+    ],
+    "INTP 1465": [],
+    "INTP 1500": [
+        "and",
+        [
+            "ASLS 1420",
+            "either"
+        ],
+        [
+            "INTP 1442",
+            "either"
+        ],
+        [
+            "ASLS 1420",
+            "either"
+        ],
+        [
+            "INTP 1442",
+            "either"
+        ]
+    ],
+    "INTP 1512": [
+        "and",
+        [
+            "ASLS 1420",
+            "pre"
+        ],
+        [
+            "INTP 1500",
+            "pre"
+        ]
+    ],
+    "INTP 1513": [
+        "and",
+        [
+            "ASLS 1430",
+            "pre"
+        ],
+        [
+            "INTP 1512",
+            "pre"
+        ]
+    ],
+    "INTP 2410": [
+        "and",
+        [
+            "INTP 2592",
+            "pre"
+        ]
+    ],
+    "INTP 2411": [
+        "and",
+        [
+            "INTP 1513",
+            "pre"
+        ]
+    ],
+    "INTP 2412": [
+        "and",
+        [
+            "INTP 2411",
+            "pre"
+        ]
+    ],
+    "INTP 2421": [
+        "and",
+        [
+            "INTP 1513",
+            "pre"
+        ]
+    ],
+    "INTP 2422": [
+        "and",
+        [
+            "INTP 2421",
+            "pre"
+        ]
+    ],
+    "INTP 2431": [
+        "and",
+        [
+            "INTP 1513",
+            "pre"
+        ]
+    ],
+    "INTP 2432": [
+        "and",
+        [
+            "INTP 2431",
+            "pre"
+        ]
+    ],
+    "INTP 2450": [
+        "and",
+        [
+            "ASLS 1430",
+            "pre"
+        ],
+        [
+            "INTP 1512",
+            "pre"
+        ]
+    ],
+    "INTP 2585": [
+        "and",
+        [
+            "INTP 1513",
+            "pre"
+        ]
+    ],
+    "INTP 2592": [
+        "and",
+        [
+            "INTP 2411",
+            "pre"
+        ],
+        [
+            "INTP 2421",
+            "pre"
+        ],
+        [
+            "INTP 2431",
+            "pre"
+        ],
+        [
+            "INTP 2412",
+            "pre"
+        ],
+        [
+            "INTP 2422",
+            "pre"
+        ],
+        [
+            "INTP 2432",
+            "pre"
+        ]
+    ],
+    "MASS 1400": [],
+    "MASS 1421": [
+        "and",
+        [
+            "MASS 1400",
+            "pre"
+        ]
+    ],
+    "MASS 1422": [
+        "and",
+        [
+            "MASS 1400",
+            "pre"
+        ]
+    ],
+    "MASS 1423": [],
+    "MASS 1480": [
+        "and",
+        [
+            "MASS 1400",
+            "pre"
+        ],
+        [
+            "MASS 1422",
+            "pre"
+        ]
+    ],
+    "MASS 1490": [
+        "and",
+        [
+            "MASS 1423",
+            "pre"
+        ]
+    ],
+    "MATH 1411": [],
+    "MATH 1730": [],
+    "MATH 1740": [],
+    "MATH 1750": [
+        "and",
+        [
+            "MATH 1730",
+            "pre"
+        ]
+    ],
+    "MATH 1762": [],
+    "MATH 2749": [
+        "or",
+        [
+            "MATH 1750",
+            "pre"
+        ],
+        [
+            "MATH 1762",
+            "pre"
+        ]
+    ],
+    "MATH 2750": [
+        "and",
+        [
+            "MATH 2749",
+            "pre"
+        ]
+    ],
+    "MATH 2753": [
+        "and",
+        [
+            "MATH 2750",
+            "pre"
+        ]
+    ],
+    "MATH 2760": [
+        "and",
+        [
+            "MATH 2750",
+            "pre"
+        ]
+    ],
+    "MEDS 1420": [],
+    "MEDS 1470": [],
+    "MEDS 1480": [],
+    "MEDS 1551": [
+        "and",
+        [
+            "MEDS 1480",
+            "either"
+        ]
+    ],
+    "MEDS 1552": [
+        "and",
+        [
+            "MEDS 1551",
+            "pre"
+        ]
+    ],
+    "MEDS 1553": [
+        "and",
+        [
+            "MEDS 1552",
+            "pre"
+        ]
+    ],
+    "MEDS 1560": [
+        "and",
+        [
+            "MEDS 1420",
+            "pre"
+        ]
+    ],
+    "MEDS 1562": [
+        "and",
+        [
+            "MEDS 1420",
+            "pre"
+        ]
+    ],
+    "MEDS 1570": [
+        "or",
+        [
+            "MEDS 1480",
+            "pre"
+        ],
+        [
+            "MEDS 1470",
+            "pre"
+        ]
+    ],
+    "MEDS 2430": [
+        "and",
+        [
+            "MEDS 1480",
+            "pre"
+        ]
+    ],
+    "MEDS 2432": [
+        "and",
+        [
+            "MEDS 1420",
+            "pre"
+        ]
+    ],
+    "MEDS 2434": [
+        "and",
+        [
+            "MEDS 1420",
+            "pre"
+        ]
+    ],
+    "MEDS 2440": [
+        "and",
+        [
+            "MEDS 1420",
+            "pre"
+        ]
+    ],
+    "MEDS 2461": [
+        "and",
+        [
+            "MEDS 1470",
+            "pre"
+        ],
+        [
+            "MEDS 1480",
+            "pre"
+        ]
+    ],
+    "MEDS 2462": [
+        "and",
+        [
+            "MEDS 1470",
+            "pre"
+        ],
+        [
+            "MEDS 1480",
+            "pre"
+        ]
+    ],
+    "MEDS 2470": [
+        "and",
+        [
+            "MEDS 1470",
+            "pre"
+        ],
+        [
+            "MEDS 1480",
+            "pre"
+        ]
+    ],
+    "MEDS 2480": [
+        "and",
+        [
+            "MEDS 2462",
+            "pre"
+        ],
+        [
+            "MEDS 2470",
+            "pre"
+        ]
+    ],
+    "MEDS 2510": [
+        "and",
+        [
+            "MEDS 1420",
+            "pre"
+        ]
+    ],
+    "MEDS 2590": [],
+    "MEDS 2594": [
+        "and",
+        [
+            "MEDS 1480",
+            "pre"
+        ],
+        [
+            "MEDS 1470",
+            "pre"
+        ],
+        [
+            "MEDS 2461",
+            "pre"
+        ],
+        [
+            "MEDS 2462",
+            "pre"
+        ],
+        [
+            "MEDS 2470",
+            "pre"
+        ]
+    ],
+    "MUSC 1701": [],
+    "MUSC 1702": [],
+    "MUSC 1703": [
+        "and",
+        [
+            "MUSC 1701",
+            "pre"
+        ]
+    ],
+    "MUSC 1704": [
+        "and",
+        [
+            "MUSC 1701",
+            "pre"
+        ],
+        [
+            "MUSC 1702",
+            "pre"
+        ]
+    ],
+    "MUSC 1735": [],
+    "MUSC 1736": [
+        "and",
+        [
+            "MUSC 1735",
+            "pre"
+        ]
+    ],
+    "MUSC 1800": [],
+    "MUSC 2700": [
+        "and",
+        [
+            "MUSC 1703",
+            "pre"
+        ]
+    ],
+    "MUSC 2705": [
+        "and",
+        [
+            "MUSC 1703",
+            "pre"
+        ]
+    ],
+    "MUSC 2710": [
+        "and",
+        [
+            "MUSC 2700",
+            "pre"
+        ]
+    ],
+    "MUSC 2715": [
+        "and",
+        [
+            "MUSC 2700",
+            "pre"
+        ],
+        [
+            "MUSC 2705",
+            "pre"
+        ]
+    ],
+    "MUSC 2720": [
+        "and",
+        [
+            "ENGL 1711",
+            "pre"
+        ]
+    ],
+    "MUSC 2721": [
+        "and",
+        [
+            "ENGL 1711",
+            "pre"
+        ]
+    ],
+    "NAST 1111": [],
+    "NAST 1112": [
+        "and",
+        [
+            "NAST 1111",
+            "pre"
+        ]
+    ],
+    "PHAR 1710": [],
+    "PHAR 1715": [],
+    "PHAR 1720": [],
+    "PHAR 1730": [
+        "and",
+        [
+            "PHAR 1720",
+            "pre"
+        ]
+    ],
+    "PHAR 1735": [
+        "and",
+        [
+            "PHAR 1715",
+            "pre"
+        ]
+    ],
+    "PHAR 1750": [
+        "and",
+        [
+            "PHAR 1710",
+            "pre"
+        ],
+        [
+            "PHAR 1715",
+            "pre"
+        ],
+        [
+            "PHAR 1720",
+            "pre"
+        ]
+    ],
+    "PHAR 2740": [
+        "and",
+        [
+            "PHAR 1715",
+            "pre"
+        ]
+    ],
+    "PHIL 1720": [],
+    "PHIL 1722": [],
+    "PHLB 1405": [
+        "and",
+        [
+            "HLTH 1410",
+            "pre"
+        ],
+        [
+            "BIOL 1730",
+            "pre"
+        ],
+        [
+            "PHIL 1722",
+            "pre"
+        ],
+        [
+            "COMM 1710",
+            "pre"
+        ],
+        [
+            "HLTH 1575",
+            "co"
+        ]
+    ],
+    "PHLB 1410": [
+        "and",
+        [
+            "PHLB 1405",
+            "pre"
+        ]
+    ],
+    "PHYS 1720": [
+        "and",
+        [
+            "MATH 1730",
+            "pre"
+        ]
+    ],
+    "PHYS 1722": [
+        "and",
+        [
+            "PHYS 1720",
+            "pre"
+        ]
+    ],
+    "PHYS 2700": [
+        "and",
+        [
+            "MATH 2749",
+            "pre"
+        ]
+    ],
+    "PHYS 2710": [
+        "and",
+        [
+            "PHYS 2700",
+            "pre"
+        ]
+    ],
+    "PIPE 1410": [],
+    "PIPE 1451": [],
+    "PIPE 1452": [
+        "and",
+        [
+            "PIPE 1451",
+            "pre"
+        ]
+    ],
+    "PIPE 1540": [
+        "and",
+        [
+            "PIPE 1451",
+            "pre"
+        ],
+        [
+            "PIPE 1555",
+            "pre"
+        ]
+    ],
+    "PIPE 1550": [
+        "and",
+        [
+            "PIPE 1451",
+            "pre"
+        ]
+    ],
+    "PIPE 1555": [],
+    "PIPE 1560": [],
+    "PIPE 1565": [],
+    "PIPE 1570": [],
+    "PIPE 1575": [],
+    "PIPE 1580": [],
+    "PIPE 1585": [
+        "and",
+        [
+            "PIPE 1580",
+            "pre"
+        ]
+    ],
+    "PLMB 2610": [],
+    "PLMB 2612": [],
+    "PLMB 2614": [],
+    "PLMB 2616": [],
+    "PLMB 2618": [],
+    "PLMB 2621": [],
+    "PLMB 2622": [],
+    "PLMB 2623": [],
+    "PLMB 2624": [],
+    "PLMB 2631": [],
+    "PLMB 2632": [],
+    "PLMB 2633": [],
+    "PLMB 2634": [],
+    "PLMB 2640": [],
+    "POLS 1720": [],
+    "POLS 1740": [],
+    "POLS 1750": [],
+    "POLS 1760": [],
+    "PSYC 1710": [],
+    "PSYC 1720": [],
+    "PSYC 2240": [
+        "and",
+        [
+            "PSYC 1710",
+            "pre"
+        ],
+        [
+            "MATH 1730",
+            "pre"
+        ]
+    ],
+    "PUBH 1700": [],
+    "PUBH 1710": [],
+    "PUBH 2700": [],
+    "PUBH 2710": [],
+    "PUBH 2720": [],
+    "PUBH 2730": [],
+    "PUBH 2740": [],
+    "PUBH 2750": [
+        "and",
+        [
+            "PUBH 2710",
+            "pre"
+        ]
+    ],
+    "PUBH 2770": [],
+    "SMET 1410": [],
+    "SMET 1415": [],
+    "SMET 1420": [],
+    "SMET 1430": [],
+    "SMET 1440": [],
+    "SMET 1450": [],
+    "SMET 1510": [
+        "and",
+        [
+            "SMET 1410",
+            "pre"
+        ],
+        [
+            "SMET 1415",
+            "pre"
+        ],
+        [
+            "SMET 1420",
+            "pre"
+        ],
+        [
+            "SMET 1430",
+            "pre"
+        ],
+        [
+            "SMET 1440",
+            "pre"
+        ],
+        [
+            "SMET 1450",
+            "pre"
+        ]
+    ],
+    "SMET 1520": [
+        "and",
+        [
+            "SMET 1410",
+            "pre"
+        ],
+        [
+            "SMET 1415",
+            "pre"
+        ],
+        [
+            "SMET 1420",
+            "pre"
+        ],
+        [
+            "SMET 1430",
+            "pre"
+        ],
+        [
+            "SMET 1440",
+            "pre"
+        ],
+        [
+            "SMET 1450",
+            "pre"
+        ]
+    ],
+    "SMET 1530": [
+        "and",
+        [
+            "SMET 1410",
+            "pre"
+        ],
+        [
+            "SMET 1415",
+            "pre"
+        ],
+        [
+            "SMET 1420",
+            "pre"
+        ],
+        [
+            "SMET 1430",
+            "pre"
+        ],
+        [
+            "SMET 1440",
+            "pre"
+        ],
+        [
+            "SMET 1450",
+            "pre"
+        ]
+    ],
+    "SMET 1540": [
+        "and",
+        [
+            "SMET 1410",
+            "pre"
+        ],
+        [
+            "SMET 1415",
+            "pre"
+        ],
+        [
+            "SMET 1420",
+            "pre"
+        ],
+        [
+            "SMET 1430",
+            "pre"
+        ],
+        [
+            "SMET 1440",
+            "pre"
+        ],
+        [
+            "SMET 1450",
+            "pre"
+        ]
+    ],
+    "SMET 1550": [
+        "and",
+        [
+            "SMET 1410",
+            "pre"
+        ],
+        [
+            "SMET 1415",
+            "pre"
+        ],
+        [
+            "SMET 1420",
+            "pre"
+        ],
+        [
+            "SMET 1430",
+            "pre"
+        ],
+        [
+            "SMET 1440",
+            "pre"
+        ],
+        [
+            "SMET 1450",
+            "pre"
+        ]
+    ],
+    "SOCI 1710": [],
+    "SOCI 1730": [],
+    "SOCI 1772": [],
+    "SPAN 1710": [],
+    "SPAN 1720": [
+        "and",
+        [
+            "SPAN 1710",
+            "pre"
+        ]
+    ],
+    "SPAN 1730": [
+        "and",
+        [
+            "SPAN 1720",
+            "pre"
+        ]
+    ],
+    "SPAN 1740": [
+        "and",
+        [
+            "SPAN 1730",
+            "pre"
+        ]
+    ],
+    "SURG 1405": [
+        "and",
+        [
+            "SURG 1410",
+            "co"
+        ],
+        [
+            "SURG 1415",
+            "co"
+        ]
+    ],
+    "SURG 1410": [
+        "and",
+        [
+            "BIOL 1471",
+            "pre"
+        ],
+        [
+            "BIOL 1740",
+            "pre"
+        ],
+        [
+            "BIOL 2721",
+            "pre"
+        ],
+        [
+            "SURG 1415",
+            "co"
+        ],
+        [
+            "BIOL 2722",
+            "co"
+        ]
+    ],
+    "SURG 1415": [
+        "and",
+        [
+            "BIOL 1471",
+            "pre"
+        ],
+        [
+            "BIOL 1740",
+            "pre"
+        ],
+        [
+            "BIOL 2721",
+            "pre"
+        ],
+        [
+            "SURG 1410",
+            "co"
+        ],
+        [
+            "BIOL 2722",
+            "co"
+        ]
+    ],
+    "SURG 2400": [
+        "and",
+        [
+            "SURG 1405",
+            "pre"
+        ],
+        [
+            "SURG 1410",
+            "pre"
+        ],
+        [
+            "SURG 1415",
+            "pre"
+        ]
+    ],
+    "SURG 2405": [
+        "and",
+        [
+            "SURG 1405",
+            "pre"
+        ],
+        [
+            "SURG 1410",
+            "pre"
+        ],
+        [
+            "SURG 1415",
+            "pre"
+        ]
+    ],
+    "SURG 2411": [
+        "and",
+        [
+            "BIOL 2722",
+            "pre"
+        ],
+        [
+            "SURG 1405",
+            "pre"
+        ],
+        [
+            "SURG 1410",
+            "pre"
+        ],
+        [
+            "SURG 1415",
+            "pre"
+        ]
+    ],
+    "SURG 2415": [
+        "and",
+        [
+            "SURG 1405",
+            "pre"
+        ],
+        [
+            "SURG 1410",
+            "pre"
+        ],
+        [
+            "SURG 1415",
+            "pre"
+        ]
+    ],
+    "SURG 2420": [
+        "and",
+        [
+            "SURG 1405",
+            "pre"
+        ],
+        [
+            "SURG 1410",
+            "pre"
+        ],
+        [
+            "SURG 1415",
+            "pre"
+        ]
+    ],
+    "SURG 2430": [
+        "and",
+        [
+            "SURG 2405",
+            "pre"
+        ],
+        [
+            "SURG 2411",
+            "pre"
+        ],
+        [
+            "SURG 2415",
+            "pre"
+        ],
+        [
+            "SURG 2420",
+            "pre"
+        ]
+    ],
+    "SURG 2435": [
+        "and",
+        [
+            "SURG 2405",
+            "pre"
+        ],
+        [
+            "SURG 2411",
+            "pre"
+        ],
+        [
+            "SURG 2415",
+            "pre"
+        ],
+        [
+            "SURG 2420",
+            "pre"
+        ],
+        [
+            "SURG 2430",
+            "pre"
+        ]
+    ],
+    "TRKM 1400": [],
+    "TRKM 1445": [],
+    "TRKM 1455": [],
+    "TRKM 1521": [],
+    "TRKM 1522": [],
+    "TRKM 1551": [],
+    "TRKM 1552": [],
+    "TRKM 1553": [],
+    "TRKM 1560": [],
+    "TRKM 2401": [],
+    "TRKM 2425": [],
+    "TRKM 2440": [],
+    "TRKM 2511": [],
+    "TRKM 2512": [],
+    "TRKM 2540": [],
+    "WINE 1600": [],
+    "WINE 1610": [],
+    "WINE 1620": [],
+    "WINE 1630": [],
+    "WINE 1640": [],
+    "WLDG 1402": [
+        "and",
+        [
+            "WLDG 1410",
+            "co"
+        ],
+        [
+            "WLDG 1420",
+            "co"
+        ],
+        [
+            "WLDG 1431",
+            "co"
+        ],
+        [
+            "WLDG 1441",
+            "co"
+        ],
+        [
+            "WLDG 1450",
+            "co"
+        ]
+    ],
+    "WLDG 1410": [
+        "and",
+        [
+            "WLDG 1402",
+            "co"
+        ],
+        [
+            "WLDG 1420",
+            "co"
+        ],
+        [
+            "WLDG 1431",
+            "co"
+        ],
+        [
+            "WLDG 1441",
+            "co"
+        ],
+        [
+            "WLDG 1450",
+            "co"
+        ]
+    ],
+    "WLDG 1420": [
+        "and",
+        [
+            "WLDG 1402",
+            "co"
+        ],
+        [
+            "WLDG 1410",
+            "co"
+        ],
+        [
+            "WLDG 1431",
+            "co"
+        ],
+        [
+            "WLDG 1441",
+            "co"
+        ],
+        [
+            "WLDG 1450",
+            "co"
+        ]
+    ],
+    "WLDG 1431": [
+        "and",
+        [
+            "WLDG 1402",
+            "co"
+        ],
+        [
+            "WLDG 1410",
+            "co"
+        ],
+        [
+            "WLDG 1420",
+            "co"
+        ],
+        [
+            "WLDG 1441",
+            "co"
+        ],
+        [
+            "WLDG 1450",
+            "co"
+        ]
+    ],
+    "WLDG 1441": [
+        "and",
+        [
+            "WLDG 1402",
+            "co"
+        ],
+        [
+            "WLDG 1410",
+            "co"
+        ],
+        [
+            "WLDG 1420",
+            "co"
+        ],
+        [
+            "WLDG 1431",
+            "co"
+        ],
+        [
+            "WLDG 1450",
+            "co"
+        ]
+    ],
+    "WLDG 1450": [
+        "and",
+        [
+            "WLDG 1402",
+            "co"
+        ],
+        [
+            "WLDG 1410",
+            "co"
+        ],
+        [
+            "WLDG 1420",
+            "co"
+        ],
+        [
+            "WLDG 1431",
+            "co"
+        ],
+        [
+            "WLDG 1441",
+            "co"
+        ]
+    ],
+    "WLDG 1502": [
+        "and",
+        [
+            "WLDG 1402",
+            "pre"
+        ],
+        [
+            "WLDG 1450",
+            "pre"
+        ],
+        [
+            "WLDG 1510",
+            "co"
+        ],
+        [
+            "WLDG 1520",
+            "co"
+        ],
+        [
+            "WLDG 1530",
+            "co"
+        ],
+        [
+            "WLDG 1540",
+            "co"
+        ]
+    ],
+    "WLDG 1510": [
+        "and",
+        [
+            "WLDG 1402",
+            "pre"
+        ],
+        [
+            "WLDG 1450",
+            "pre"
+        ],
+        [
+            "WLDG 1502",
+            "co"
+        ],
+        [
+            "WLDG 1520",
+            "co"
+        ],
+        [
+            "WLDG 1530",
+            "co"
+        ],
+        [
+            "WLDG 1540",
+            "co"
+        ]
+    ],
+    "WLDG 1520": [
+        "and",
+        [
+            "WLDG 1402",
+            "pre"
+        ],
+        [
+            "WLDG 1450",
+            "pre"
+        ],
+        [
+            "WLDG 1502",
+            "co"
+        ],
+        [
+            "WLDG 1510",
+            "co"
+        ],
+        [
+            "WLDG 1530",
+            "co"
+        ],
+        [
+            "WLDG 1540",
+            "co"
+        ]
+    ],
+    "WLDG 1530": [
+        "and",
+        [
+            "WLDG 1402",
+            "pre"
+        ],
+        [
+            "WLDG 1450",
+            "pre"
+        ],
+        [
+            "WLDG 1502",
+            "co"
+        ],
+        [
+            "WLDG 1510",
+            "co"
+        ],
+        [
+            "WLDG 1520",
+            "co"
+        ],
+        [
+            "WLDG 1540",
+            "co"
+        ]
+    ],
+    "WLDG 1540": [
+        "and",
+        [
+            "WLDG 1502",
+            "pre"
+        ],
+        [
+            "WLDG 1502",
+            "co"
+        ],
+        [
+            "WLDG 1510",
+            "co"
+        ],
+        [
+            "WLDG 1520",
+            "co"
+        ],
+        [
+            "WLDG 1530",
+            "co"
+        ]
+    ],
+    "WLDG 2402": [
+        "and",
+        [
+            "WLDG 1402",
+            "pre"
+        ],
+        [
+            "WLDG 1540",
+            "pre"
+        ],
+        [
+            "WLDG 2411",
+            "co"
+        ],
+        [
+            "WLDG 2420",
+            "co"
+        ],
+        [
+            "WLDG 2430",
+            "co"
+        ],
+        [
+            "WLDG 2442",
+            "co"
+        ]
+    ],
+    "WLDG 2411": [
+        "and",
+        [
+            "WLDG 1402",
+            "pre"
+        ],
+        [
+            "WLDG 1540",
+            "pre"
+        ],
+        [
+            "WLDG 2402",
+            "co"
+        ],
+        [
+            "WLDG 2420",
+            "co"
+        ],
+        [
+            "WLDG 2430",
+            "co"
+        ],
+        [
+            "WLDG 2442",
+            "co"
+        ]
+    ],
+    "WLDG 2420": [
+        "and",
+        [
+            "WLDG 1402",
+            "pre"
+        ],
+        [
+            "WLDG 1540",
+            "pre"
+        ],
+        [
+            "WLDG 2402",
+            "co"
+        ],
+        [
+            "WLDG 2411",
+            "co"
+        ],
+        [
+            "WLDG 2430",
+            "co"
+        ],
+        [
+            "WLDG 2442",
+            "co"
+        ]
+    ],
+    "WLDG 2430": [
+        "and",
+        [
+            "WLDG 1402",
+            "pre"
+        ],
+        [
+            "WLDG 1540",
+            "pre"
+        ],
+        [
+            "WLDG 2402",
+            "co"
+        ],
+        [
+            "WLDG 2411",
+            "co"
+        ],
+        [
+            "WLDG 2420",
+            "co"
+        ],
+        [
+            "WLDG 2442",
+            "co"
+        ]
+    ],
+    "WLDG 2442": [
+        "and",
+        [
+            "WLDG 1402",
+            "pre"
+        ],
+        [
+            "WLDG 1540",
+            "pre"
+        ],
+        [
+            "WLDG 2402",
+            "co"
+        ],
+        [
+            "WLDG 2411",
+            "co"
+        ],
+        [
+            "WLDG 2420",
+            "co"
+        ],
+        [
+            "WLDG 2430",
+            "co"
+        ]
+    ],
+    "WLDG 2500": [],
+    "WLDG 2510": [],
+    "WLDG 2520": [],
+    "WLDG 2530": [],
+    "WLDG 2540": [],
+    "WLDG 2550": [],
+    "WLDG 2560": []
+}
