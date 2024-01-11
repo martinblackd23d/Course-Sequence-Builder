@@ -1,3 +1,5 @@
+This program creates and analyses college course sequences and schedules.
+
 # Dependencies:
 These need to be installed:
 python
